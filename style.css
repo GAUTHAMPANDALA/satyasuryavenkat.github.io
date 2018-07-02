@@ -19,6 +19,8 @@ h1 {
 }
 img
 {
+	width: 200;
+	height:300;
 	
 	margin: 10px;
 	transition: all 1s;
